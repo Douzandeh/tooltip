@@ -102,7 +102,7 @@ body {
 .tooltip__section .tooltip__item:nth-child(2):hover span,
 .tooltip__section .tooltip__item:nth-child(2):hover .tooltip__text,
 .tooltip__section .tooltip__item:nth-child(2):hover .tooltip__text::before {
-  background-color: #1DA1F2;
+  background-color: #000000;
 }
 .tooltip__section .tooltip__item:nth-child(3):hover span,
 .tooltip__section .tooltip__item:nth-child(3):hover .tooltip__text,
